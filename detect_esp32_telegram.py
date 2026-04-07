@@ -8,8 +8,8 @@ import time
 ESP32_URL = "http://10.169.203.252:81/stream"
 
 # === Telegram Bot Setup ===
-BOT_TOKEN = "8027439477:AAFn1OhoJ9eDrbatNHHlK_Hy3uN-VtQ8gDY"  # Your bot token
-CHAT_ID = "6565482646"  # Your chat ID
+BOT_TOKEN = "Enter your Bot token"  # Your bot token
+CHAT_ID = "Enter your Chat ID"  # Your chat ID
 
 bot = telegram.Bot(token=BOT_TOKEN)
 
