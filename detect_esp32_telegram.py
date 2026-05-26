@@ -5,7 +5,7 @@ import telegram
 import time
 
 # === ESP32-CAM stream URL ===
-ESP32_URL = "http://10.169.203.252:81/stream"
+ESP32_URL = "Enter your Esp32 URL" # Your Esp32 URL
 
 # === Telegram Bot Setup ===
 BOT_TOKEN = "Enter your Bot token"  # Your bot token
